@@ -1,1 +1,14 @@
 How to Excel Automation using Power Automation Desktop-
+ Some of the Action we learn ,those are using excel automation.
+
+Use Case 1. We have data in excel file about employe information, now that excel file convert to .txt file.
+            now discuss one by one step how can we do.
+             For Coverting simple step here- 
+               a. Lunch the excel
+               b. Read from Excel work sheet
+               c.if excel file read after that write the data in txt file (Write text to a file)
+               d. after that close excel.
+Use case 2. How to write data in excel 
+        step- a. Lunch the excel
+              b. Write to excel worksheet
+              c. close Excel
