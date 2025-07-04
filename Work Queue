@@ -1,1 +1,8 @@
+What is Work Queue?
+   Work Queue used to manage and process large volumes of data or tasks in an organized and efficient way.
+   In Work Queue there has item like - 1.Queued 2.Processing 3.Processed 4.On Hold 5.Expired
 
+Benefits-- 1. Increased efficiency and scalability
+           2.Better resource utilization 
+           3.Consistent Prioritization
+           4.Centralized Monitoring
